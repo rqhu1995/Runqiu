@@ -1,13 +1,5 @@
-I am currently a PhD candidate at [INSA](https://www.groupe-insa.fr) (MA team) and [INRIA](https://www.inria.fr/fr) (SIMSMART team).
-Before, I earned an Engineering degree (MSc. equivalent) in Applied Mathematics from INSA. 
-There, I studied a wide range of applied mathematics fields such as Optimization, Machine Learning and Statistics, ... 
-I also took a research option that allowed me to work with researchers for two years before obtaining my engineering degree. 
-My main research topics are :
+I am currently a Ph.D. student supervised by [Prof. Wai Yuen Szeto](https://www.civil.hku.hk/ceszeto/) at [Department of Civil Engineering](https://www.civil.hku.hk/), The University of Hong Kong. I graduated with a master's degree in Computer Technology in the [School of Computer Science and Engineering](https://cse.seu.edu.cn/), Southeast University (China) in year 2021. 
 
-- Optimization (convex, non-convex, mixed-integer, ...)
-- Sparse problems
-- Screening methods
-- Machine learning
-- Signal processing
+During my master's study, I gained some background in knowledge representation and reasoning in AI, especially in the application of non-monotonic reasoning for decision support systems using answer set programming, and finding reasoning paths as the explanation for decision. 
 
-You can visit my personnal website [here](https://theoguyard.github.io).
+My current research interests lie in the intersection of artificial intelligence, transportation engineering, and operations research. I am particularly interested in the application of multiobjective optimization in shared mobility systems, such as bike-sharing systems. 
